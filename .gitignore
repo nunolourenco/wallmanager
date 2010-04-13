@@ -1,8 +1,10 @@
 *.pyc
+clean.bat
 webmanager/db/dev.db
 webmanager/media/applications
 webmanager/media/icons
 mtmenu/apps
+web_log.txt
 .project
 .pydevproject
 .settings
